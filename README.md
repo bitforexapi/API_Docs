@@ -1,2 +1,2 @@
 # API_Docs
-BitForex API文档
+详情见[BitForex API接口说明](https://github.com/bitforexapi/API_Docs/wiki)
